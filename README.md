@@ -32,4 +32,7 @@ In Epikoinonites Discussions, you will have the ability to:
 
 You can visit Epikoinonites discussions by clicking [here](https://github.com/orgs/Epikoinonites/discussions).
 
+## Reason for founding Epikoinonites
+The Epikoinonites organization has been found within the course of the HCI (Human Computer Interaction) subject in order to collaborate easier with others. This course is offered at the third semester of the Ionian's University curriculum.
+
 ---
