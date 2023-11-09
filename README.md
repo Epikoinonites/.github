@@ -11,9 +11,12 @@ This repository is created to introduce our organization!
 | # |   Roles   |  Get in touch with us! | Student Identification Code |
 | ------------- | ------------- | -------- | -------- |
 | 1 |     Owner       | [Christos-Spyridon Karydis](https://github.com/chriskarydis)  | inf2022076 |
-| 2 |     Owner      | [Agnes Tatsis](https://github.com/AgnesTatsis)   | inf2022202 |
+| 2 |     Owner       | [Agnes Tatsis](https://github.com/AgnesTatsis)   | inf2022202 |
 | 3 |     Member      | [Christos Sarantidis](https://github.com/ChristoSarantidis)      | inf2022182 |
 | 4 |     Member      | [Pafsanias Kontos](https://github.com/PafsaniasKontos)     | inf2022083 |
+| 5 |     Member      | [GeorgeChat](https://github.com/GeorgeChat) | p12chat |
+| 6 |     Member      | [P19GKOU](https://github.com/P19GKOU) | p19gkou |
+| 7 |     Member      | [inf2022181](https://github.com/inf2022181) | inf2022181 |
 
 We are pleased to cooperate with each other and we are looking forward to complete the exercises as fast and as good as possible!
 
